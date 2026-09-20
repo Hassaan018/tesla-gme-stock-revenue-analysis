@@ -50,18 +50,11 @@ By comparing historical share prices against quarterly revenue growth on dual-ax
 ### 1. Tesla (TSLA) Analysis
 * **Observation:** Tesla shows a strong long-term correlation between quarterly revenue growth and market valuation expansion.
 * **Dashboard Output:**
-  ![Tesla Stock vs Revenue](images/tesla_graph.png)
+  ![Tesla Stock vs Revenue](Images/tesla_graph.png)
 
 ### 2. GameStop (GME) Analysis
 * **Observation:** GameStop demonstrates an extreme stock price surge in early 2021 (retail short squeeze) that occurred independently of historical revenue trends.
 * **Dashboard Output:**
-  ![GameStop Stock vs Revenue](images/gme_graph.png)
+  ![GameStop Stock vs Revenue](Images/gme_graph.png)
 
 ---
-
-## 💻 How to Run This Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/tesla-gme-financial-analysis.git](https://github.com/your-username/tesla-gme-financial-analysis.git)
-   cd tesla-gme-financial-analysis
